@@ -1,0 +1,24 @@
+{
+  "name": "R.T.S Academy — Rise To Success",
+  "short_name": "RTS Academy",
+  "description": "Rise To Success Academy — Spoken English, School Tuition, Summer Camp — Udaipura, Raisen (M.P.)",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0e3d",
+  "theme_color": "#00c8e0",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "RTS Logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "RTS Logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
